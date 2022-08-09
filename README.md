@@ -28,9 +28,8 @@ See the full game features in the [documentation](https://github.com/AlejandroDC
 ***
 
 ## Compilation
-A `template` is used in order to develop all the software.
 
-* `cd template`
+* `cd src`
 * `cmake -H. -Bbuild` generate the makefile
 * `cd build`
 * `make`
