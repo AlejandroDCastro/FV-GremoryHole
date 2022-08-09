@@ -23,7 +23,7 @@ See the full game features in the [documentation](https://github.com/AlejandroDC
 * **Ubuntu 16.04** operating system
 * **GCC** compiler
 * **CMAKE**
-* **VSCode** editor
+* **VSCode** IDE
 
 ***
 
