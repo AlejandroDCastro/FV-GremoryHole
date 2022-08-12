@@ -64,10 +64,6 @@ A keyboard is needed to play this game.
 
 ## Screenshots
 
-<img src="https://github.com/AlejandroDCastro/FV-GremoryHole/blob/main/pics/pic1.png" alt="Picture 1" width="600">
-
-<img src="https://github.com/AlejandroDCastro/FV-GremoryHole/blob/main/pics/pic2.png" alt="Picture 2" width="600">
-
-<img src="https://github.com/AlejandroDCastro/FV-GremoryHole/blob/main/pics/pic3.png" alt="Picture 3" width="600">
-
-<img src="https://github.com/AlejandroDCastro/FV-GremoryHole/blob/main/pics/pic5.png" alt="Picture 5" width="600">
+<img src="https://github.com/AlejandroDCastro/FV-GremoryHole/blob/main/pics/pic1.png" alt="Picture 1" width="500">&nbsp;<img src="https://github.com/AlejandroDCastro/FV-GremoryHole/blob/main/pics/pic2.png" alt="Picture 2" width="500">
+<br>
+<img src="https://github.com/AlejandroDCastro/FV-GremoryHole/blob/main/pics/pic3.png" alt="Picture 3" width="500">&nbsp;<img src="https://github.com/AlejandroDCastro/FV-GremoryHole/blob/main/pics/pic5.png" alt="Picture 5" width="500">
